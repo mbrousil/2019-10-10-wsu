@@ -278,7 +278,7 @@ please preview your site before committing, and make sure to run
 <ul>
   <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/reference.html">Spreadsheets</a></li>
   <li><a href="https://datacarpentry.org/OpenRefine-ecology-lesson/reference.html">OpenRefine</a></li>
-  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/reference.html">R</a></li>
+  <li><a href="https://datacarpentry.org/R-ecology-lesson/reference">R</a></li>
 </ul>
 
 <hr/>
