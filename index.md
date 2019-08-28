@@ -274,6 +274,15 @@ please preview your site before committing, and make sure to run
 
 <hr/>
 
+<h2 id="ref">Cheat Sheets</h2>
+<ul>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/reference.html">Spreadsheets</a></li>
+  <li><a href="https://datacarpentry.org/OpenRefine-ecology-lesson/reference.html">OpenRefine</li>
+  <li><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/reference.html">R</a></li>
+</ul>
+
+<hr/>
+
 {% comment %}
 SETUP
 
