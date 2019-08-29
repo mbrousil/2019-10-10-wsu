@@ -308,7 +308,7 @@ please preview your site before committing, and make sure to run
   {% endif %}
   workshop,
   you will need access to the software described below.
-  In addition, you will need an up-to-date web browser.
+  In addition, you will need an up-to-date web browser and a spreadsheet program such as Microsoft Excel or LibreOffice. For more information on spreadsheet programs, refer <a href="https://datacarpentry.org/spreadsheet-ecology-lesson/setup.html">here</a>
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
