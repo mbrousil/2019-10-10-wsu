@@ -58,7 +58,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 id="registration">Registration</h2>
-The workshop cost is $25, payable by credit card or Washington State University IRI. Register <a href="https://formtool.wsu.edu/cereo/Signup/index.castle?formid=13">here</a>
+Registration is now closed, but you can contact matthew.brousil@wsu.edu to be put on a waitlist in case seats become available.
 <h2 id="general">General Information</h2>
 
 {% comment %}
